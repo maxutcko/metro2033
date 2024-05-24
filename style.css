@@ -1,0 +1,39 @@
+body {
+    font-size: 15px;
+    font-family: sans-serif;
+    background-image: url("https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/6e/72/0c/6e720c5d-ad36-90e1-b530-2b807b6f3891/5037300820835.jpg/1200x1200bf-60.jpg");
+    background-size: no-repeat;
+    background-position: center;
+    heaight: 500px;
+    weidth: 500px;
+}
+
+header {
+    background-color: black;
+    color: white;
+}
+header h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+table {
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+footer {
+    background-color: black;
+}
+
+footer p {
+    color: white;
+}
